@@ -1,4 +1,4 @@
-# 🥗 COBEK (Cek Obesitas) — Web-Based Obesity Classification & Health Risk Analysis
+# COBEK (Cek Obesitas Kamu) — Web-Based Obesity Classification & Health Risk Analysis
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2.0+-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -9,13 +9,15 @@
 **COBEK (Cek Obesitas)** adalah aplikasi berbasis web yang menggabungkan algoritma **Machine Learning (Decision Tree & Random Forest)** dengan panduan medis Body Mass Index (BMI) untuk memprediksi kategori berat badan dan risiko obesitas seseorang secara instan dan akurat.
 
 ---
+<img width="1280" height="720" alt="cobek" src="https://github.com/user-attachments/assets/0481dc31-60a2-4604-8523-c202de4bd735" />
+
 
 ## 📌 Fitur Utama
 
-- 🧠 **Machine Learning Classification**: Menggunakan model **Random Forest Classifier** dan **Decision Tree** untuk klasifikasi kategori berat badan.
-- 🩺 **Medical Rule-Based Guardrail**: Dilengkapi validasi berbasis ambang batas BMI medis (Underweight, Normal, Overweight, Obesity Type I, II, & III) untuk menjamin akurasi dan konsistensi medis.
-- ⚡ **RESTful API**: Backend berbasis Flask yang ringan, cepat, dan siap diintegrasikan.
-- 🎨 **Interactive & Responsive UI**: Antarmuka modern berbasis Bootstrap 5 dengan visualisasi kartu status tubuh, kalkulasi BMI otomatis, dan rekomendasi gaya hidup yang dipersonalisasi.
+- **Machine Learning Classification**: Menggunakan model **Random Forest Classifier** dan **Decision Tree** untuk klasifikasi kategori berat badan.
+- **Medical Rule-Based Guardrail**: Dilengkapi validasi berbasis ambang batas BMI medis (Underweight, Normal, Overweight, Obesity Type I, II, & III) untuk menjamin akurasi dan konsistensi medis.
+- **RESTful API**: Backend berbasis Flask yang ringan, cepat, dan siap diintegrasikan.
+- **Interactive & Responsive UI**: Antarmuka modern berbasis Bootstrap 5 dengan visualisasi kartu status tubuh, kalkulasi BMI otomatis, dan rekomendasi gaya hidup yang dipersonalisasi.
 
 ---
 
